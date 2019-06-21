@@ -1,1 +1,1 @@
-# SMD-IS-Inventory-
+# SMD-IS-Inventory
